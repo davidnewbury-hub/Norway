@@ -1,0 +1,933 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "National Gallery",
+        "amenity": "Building",
+        "popupContent": "The gallery houses the nations largest collection of traditional and modern art and many of Edvard Munch's best known creations are on permanent display, including his most renowned work, The Scream.",
+        "id": "Olso Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.737511664628983,
+          59.91621186662491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Royal Palace",
+        "amenity": "Building",
+        "popupContent": "The 173 room residence of the Norwegian Royal Family.",
+        "id": "Olso Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.727414488792418,
+          59.91713955864316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Damstredet District",
+        "amenity": "District",
+        "popupContent": "The quirky 18th-century wooden homes of the Damstredet district and the nearby Telthusbakken are a nice change of pace from the modern architecture of the city centre. Once an impoverished shanty town, Damstredet has become a popular residential neighbourhood for artists.",
+        "id": "Olso Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.748164057731628,
+          59.920073045947255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Historical Museum",
+        "amenity": "Museum",
+        "popupContent": "The Historical Museum is actually three museums under one roof. Most interesting is the ground-floor National Antiquities Collection (Oldsaksamlingen), which has displays of Viking-era coins, jewellery and ornaments, and includes the only complete Viking helmet ever found. Look out for the 9th-century Hoen treasure (2.5kg), the largest such find in Scandinavia. A section on medieval religious art includes the doors and richly painted ceiling of the Ål stave church (built around 1300). The 2nd level has an Arctic exhibit and the Myntkabinettet, a collection of the earliest Norwegian coins from as far back as AD 995. Also on the 2nd level, and continuing on the top floor, is the Ethnographic Museum, with changing exhibits on Asia, Africa and the Americas.",
+        "id": "Olso Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.735546946525574,
+          59.91678999657922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Akershus Festning",
+        "amenity": "Historical Building",
+        "popupContent": "When Oslo was named capital of Norway in 1299, King Håkon V ordered the construction of Akershus, strategically located on the eastern side of the harbour, to protect the city from external threats. It has, over the centuries, been extended, modified and had its defences beefed up a number of times. Still dominating the Oslo harbourfront, the sprawling complex consists of a medieval castle, Akershus Slott, a fortress and assorted other buildings, including still-active military installations. Entry is through a gate at the end of Akersgata or over a drawbridge spanning Kongens gate at the southern end of Kirkegata. After 6pm in winter, use the Kirkegata entrance.",
+        "id": "Oslo Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.734769105911253,
+          59.90928159036226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Viking Ship Museum",
+        "amenity": "Museum",
+        "popupContent": "Around 1100 years ago, Vikings dragged up two longships from the shoreline and used them as the centrepiece for grand ceremonial burials, most likely for important chieftains or nobles. Along with the ships, they buried many items for the afterlife: food, drink, jewellery, furniture, carriages, weapons, and even a few dogs and servants for companionship. Discovered in Oslofjord in the late 19th century, the ships are beautifully restored and offer an evocative, emotive insight into the world of the Vikings. There are three ships in total, all named after their places of discovery: Oseberg, Gokstad and Tune. The most impressive and ostentatious of the three is the Oseberg, plus the burial chamber beneath it held the largest collection of Viking-age artefacts ever uncovered in Scandinavia, though it had been looted of its jewellery. As daunting as the ship appears, it was probably only ever intended as a royal pleasure craft. The sturdier 24m-long Gokstad, built around 890, is the finest remaining example of a Viking longship, but when it was unearthed its corresponding burial chamber had also been looted and few artefacts were uncovered. There is also the third, smaller, boat, the Tune, which is fragmentary but what remains is incredibly well preserved.",
+        "id": "Oslo Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.684547424316406,
+          59.90488655618904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Polarship Fram Museum",
+        "amenity": "Museum",
+        "popupContent": "This museum is dedicated to one of the most enduring symbols of early polar exploration, the 39m schooner Fram (meaning ‘Forward’). You can wander the decks, peek inside the cramped bunk rooms and imagine life at sea and among the polar ice. There are detailed exhibits complete with maps, pictures and artefacts of various expeditions, from Nansen's attempt to ski across the North Pole to Amundsen's discovery of the Northwest Passage. Launched in 1892, the polar ship Fram, at the time the strongest ship ever built, spent much of its life trapped in the polar ice. From 1893 to 1896 Fridtjof Nansen's North Pole expedition took the schooner to Russia's New Siberian Islands, passing within a few degrees of the North Pole on their return trip to Norway. In 1910 Roald Amundsen set sail in the Fram, intending to be the first explorer to reach the North Pole, only to discover en route that Robert Peary had beaten him to it. Not to be outdone, Amundsen turned the Fram around and, racing Robert Falcon Scott all the way, became the first man to reach the South Pole. Otto Sverdrup also sailed the schooner around southern Greenland to Canada's Ellesmere Island between 1898 and 1902, travelling over 18,000km. In addition to the Fram, the museum also houses the Gjøa, the first ship to successfully navigate the Northwest Passage.",
+        "id": "Oslo location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.699535608291626,
+          59.90332098735054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Norwegian Museum of Cultural History",
+        "amenity": "Museum",
+        "popupContent": "This folk museum is Norway's largest open-air museum and one of Oslo's most popular attractions. The museum includes more than 140 buildings, mostly from the 17th and 18th centuries, gathered from around the country, rebuilt and organised according to region of origin. Paths wind past old barns, elevated stabbur (raised storehouses) and rough-timbered farmhouses with sod roofs sprouting wildflowers. Little people will be entertained by the numerous farm animals, horse and cart rides, and other activities.",
+        "id": "Oslo Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.685936808586119,
+          59.9070464896217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old Aker Church",
+        "amenity": "Historical Building",
+        "popupContent": "This medieval stone church, located north of the centre on Akersbakken, dates from 1080 and is Oslo's oldest building. Take bus 37 from Jernbanetorget to Akersbakken, then walk up past the churchyard.",
+        "id": "Oslo Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.74710190296173,
+          59.9236985424918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ekeberg Camping Oslo",
+        "amenity": "Campground",
+        "popupContent": "Nestled on a scenic knoll southeast of the city, Ekeberg Camping provides one of the best vistas over Oslo. It can get seriously crowded, and if you're travelling with children note that it's on quite a steep slope. But oh what a view.",
+        "id": "Oslo Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.770936012268066,
+          59.89821489089555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bogstad Camping",
+        "amenity": "Campground",
+        "popupContent": "Located at the edge of the Nordmarka, sprawling Bogstad Camping is an ideal base for enjoying Oslo outdoors. The facilities include showers and communal kitchen, and there is a nearby kiosk and restaurant. It's 9km north of the city centre. To get here, take bus 32 from Oslo S (about 30 minutes). If you don't have a tent or camper, there are cabins as well as furnished glamping-style tents.",
+        "id": "Oslo Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.641095638275146,
+          59.96479607652518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saga Hotel Oslo",
+        "amenity": "Hotel",
+        "popupContent": "In a quiet, leafy street right behind the Royal Palace, this smart 46-room hotel occupies a grand corner building from the 1890s. Rooms and public spaces make the most of the elegant 19th-century bones with a restrained modern fit-out and lots of smart monochromes. There's a highly regarded sushi restaurant, Fangst, in the basement too.",
+        "id": "Oslo Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.720311999320984,
+          59.92281539350827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Smarthotel",
+        "amenity": "Hotel",
+        "popupContent": "If you're after a no-fuss city-centre crash-pad, this efficient business hotel is a decent bet. It's just around the corner from the Slottsparken, albeit on quite a busy road, and offers pod-like rooms with minimal creature comforts. There's also a cafe downstairs.",
+        "id": "Oslo Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.736480355262756,
+          59.91749987260965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thon Hotel Astoria",
+        "amenity": "Hotel",
+        "popupContent": "This might be marketed as a Thon 'budget' hotel, but if it weren't for the small bathroom and the lack of a minibar, there would be nothing to distinguish its smart rooms from more-expensive options. It's well positioned close to the train station, but the only nearby parking is on the street. Do note that single rooms can be very small indeed.",
+        "id": "Oslo Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.74681222438812,
+          59.911153472314375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P-Hotels Oslo",
+        "amenity": "Hotel",
+        "popupContent": "Traditional in style, with wooden furniture, carpets and floral curtains, this is a reliable, if not particularly glamorous, central choice. Breakfast in a bag is delivered to your door each morning.",
+        "id": "Oslo Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.74190378189087,
+          59.91441825519837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Comfort Hotel Xpress Central Station",
+        "amenity": "Hotel",
+        "popupContent": "A no-fuss hotel that's within the beautiful old bones of the train station and sits above its modern food hall Østbanehallen. Sparse but comfortable design-forward rooms vary wildly between those with original-height ceilings and mansards that can feel a little pokey, but staff are delightful and it's perfectly positioned for easy train and airport access.",
+        "id": "Oslo Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.748759508132935,
+          59.910680132825135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anker Hotel",
+        "amenity": "Hotel",
+        "popupContent": "This huge traveller-savvy hostel boasts an international atmosphere, sterile but neat rooms, a laundry, a luggage room, kitchens and a small bar. Breakfast isn't included, linen is 70kr extra and parking 230kr per 24 hours. The location isn't very scenic, but it's very convenient, with Grünerløkka and the city centre only a five-minute walk either way.",
+        "id": "Oslo Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.757975578308105,
+          59.91745147245352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scandic Vulkan",
+        "amenity": "Hotel",
+        "popupContent": "Floorboards and rough-hewn bedheads give this contemporary chain hotel a warmth and tactility that you might not expect from the exterior architecture; some rooms even come with quirks such as a vintage vinyl collection tacked to the wall. The lobby is lots of fun and you're right by Mathallen for all-day drinking and eating too.",
+        "id": "Oslo Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.751039385795593,
+          59.922272319144355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Illegal Burgers",
+        "amenity": "Restaurant",
+        "id": "Oslo Loaction",
+        "popupContent": "Well-priced burgers with large char-grilled patties, interesting gourmet variations and chunky fries. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.748675689101217,
+          59.91568885201394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sentralen Cafeteria",
+        "amenity": "Restaurant",
+        "popupContent": "At the heart of the Sentralen complex, this day-to-evening place really is a cafeteria for the area's many freelancers and creative industry workers. Join them for a morning coffee and pastry or sandwich (both care of the Handwerk bakery), eat in or take away healthy lunch dishes or stay for wood-fired sourdough pizza and beer from 4pm on weekdays or from noon on weekends.",
+        "id": "Oslo Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.739804953336714,
+          59.91132962818522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sentralen Restaurant",
+        "amenity": "Restaurant",
+        "popupContent": "One of Oslo's best dining experiences is also its most relaxed. A large dining room with a bustling open kitchen, filled with old social club chairs and painted in tones of deep, earthy green, draws city workers, visitors and natural-wine-obsessed locals in equal measure. Small-plate dining makes it easy to sample across the appealing New Nordic menu.",
+        "id": "Oslo Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.740157663822172,
+          59.91096790252343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vingen",
+        "amenity": "Restaurant",
+        "popupContent": "While honouring its role as museum cafe for Astrup Fearnley and a super-scenic pit stop, Vingen is so much more. Do drop in for excellent coffee, but also come for lunch or dinner with small, interesting menus subtly themed in homage to the museum's current temporary show. Nightfall brings cocktails, and sometimes DJs and dancing in the museum lobby and, in summer, on the waterfront terrace.",
+        "id": "Oslo Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.721352696418762,
+          59.90669413149178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Justisen",
+        "amenity": "Restaurant",
+        "popupContent": "A pubby people-pleaser, this incredibly charming and atmospheric place dates back to 1820. There's a large Norwegian menu to try, but you can't beat the happy-hour burger and drink deal for 255kr, especially if enjoyed in the all-weather beer garden.",
+        "id": "Oslo Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.747096538543701,
+          59.914652210011326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elias mat & sant",
+        "amenity": "Restaurant",
+        "popupContent": "A good bet for simple dishes in the city centre, and dead handy after a jaunt around the National Gallery. Tempting traditional options include pollack fish fillet with baby potatoes, or rich reindeer stew with a brown cheese sauce and mashed potatoes, served in a cosy little space. Lunch dishes such as fish soup or mussels are good value.",
+        "id": "Oslo Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.73865830898285,
+          59.91632077094426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Åpent bakeri",
+        "amenity": "Restaurant",
+        "popupContent": "A neighbourhood cafe that serves coffee in deep, cream-coloured bowls and has unbeatable breads and pastries. A freshly baked roll topped with homemade røre syltetøy (stirred jam) and enjoyed on the bakery's patio makes for one of Oslo's most atmospheric breakfasts.",
+        "id": "Oslo Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.72014570236206,
+          59.91667706035635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa Paradiso",
+        "amenity": "Restaurant",
+        "popupContent": "One of Solliplass' big drawcards is this eastside transplant. The space is even more atmospheric than the original, with beautiful tile work and lofty ceilings, and the pizzas are as legendary as the Grunerløkka originals. As well as the pizza, it does some good simple meat and fish dishes and pasta.",
+        "id": "Oslo Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.717688798904419,
+          59.915087845613925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Syverkiosken",
+        "amenity": "Restaurant",
+        "popupContent": "It might look like a hipster replica, but this hole-in-the-wall pølser (hot dogs) place is absolutely authentic and one of the last of its kind in Oslo. Dogs can be had in a potato bread wrap in lieu of the usual roll, or with both, and there's a large range of old-school accompaniments beyond sauce and mustard.",
+        "id": "Oslo Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.752350986003876,
+          59.92824699234112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wünderburger",
+        "amenity": "Restaurant",
+        "popupContent": "You'll find excellent Oslo burgers here, using free-range Lofoten beef, brioche buns and build-your-own choices. The veggie burgers are also good, and the gluten-free buns better than the usual.",
+        "id": "Oslo Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75421243906021,
+          59.91740710558173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bass Oslo",
+        "amenity": "Restaurant",
+        "popupContent": "In what could be yet another Grünerløkka corner cafe, you'll find one of the city's best small-plate dining options, served beneath vintage seascapes on classic Norwegian ceramics by jovial Løkka locals. Most dishes are what might be called contemporary Norwegian-meets-international – from fried chicken and potato pancakes to deep-sea cod in sorrel butter and death-by-chocolate cake. There's also an impressive wine list, many of which can be had by the glass.",
+        "id": "Oslo Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75924426317215,
+          59.92763747710278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mathallen",
+        "amenity": "Restaurant",
+        "popupContent": "Down by the river, this former industrial space is now a food court dedicated to showcasing the very best of Norwegian regional cuisine, as well as some excellent internationals. There are dozens of delis, cafes and miniature restaurants, and the place buzzes throughout the day and well into the evening. Eating here is a casual affair where strangers find themselves eating and chatting together, while families grab their preferences from different stalls. Various places within keep different opening hours, with most of the restaurants open until at least 8pm and the bars much later. Check the website for special culinary festivals held each month.",
+        "id": "Oslo Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.752042531967163,
+          59.92212445082265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mucho Mas",
+        "amenity": "Restaurant",
+        "popupContent": "What it lacks in Mexican authenticity, Mucho Mas more than makes up for in cheese and portion size. The full Tex-Mex repertoire is on offer, including tacos, nachos and burritos (which are enormous); all dishes are offered in meat or vegetarian versions. Well-priced beer helps put out the fire.",
+        "id": "Oslo Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.759338140487671,
+          59.92416766382337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cappelens Forslag",
+        "amenity": "Shopping",
+        "popupContent": "Both a rare and cult lit dealer and cafe, this bookshop is set to be your new favourite. Make yourself at home on the front-room sofa with a good coffee and browse your way through its first editions and other gems, most of which are in English. It also hosts readings, book launches and concerts.",
+        "id": "Oslo Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.753319263458252,
+          59.915230367131564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tronsmo",
+        "amenity": "Shopping",
+        "popupContent": "A social hub as much as a bookshop, come for its large range of English-language books and stay for a reading or performance. There's a large LGBT section and a basement full of comics and graphic novels.",
+        "id": "Oslo Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.738722681999207,
+          59.91655336786178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gulating Grünerløkka",
+        "amenity": "Shopping",
+        "popupContent": "Beer-lovers' heaven with one of Norway's largest selections of beers from classics to the novel and the rare. Friendly staff make it a double pleasure.",
+        "id": "Oslo Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.757530331611633,
+          59.92123722705516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vestkanttorvet Flea Market",
+        "amenity": "Shopping",
+        "popupContent": "If you're happy sifting through heaps of, well, junk in search of an elusive vintage band T-shirt or mid-century ceramic coffee pot, take a chance here. It's at the plaza that intersects Professor Dahls gate, a block east of Vigeland Park, and it's a more than pleasant way to pass a Saturday morning.",
+        "id": "Oslo Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.71293592453003,
+          59.92486125226439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fransk Bazaar",
+        "amenity": "Shopping",
+        "popupContent": "A local Francophile haunt run by a friendly Franco-Norwegian couple. Pour over the soulful French vintage homewares, objects and clothing in this delightfully jumbled and attractive shopfront.",
+        "id": "Oslo Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.756378322839737,
+          59.92335308214196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glasmagasinet Department Store",
+        "amenity": "Shopping",
+        "popupContent": "This iconic city department store dates back to 1899 and has a good range of Scandinavian brands you know you want.",
+        "id": "Oslo Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.745723247528076,
+          59.91328341650116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oscarsborg Fortress",
+        "amenity": "Historical Building",
+        "popupContent": "Don't miss the imposing Oscarsborg Fortress, which lies on an offshore island and dates back to the 1600s. It was the Oscarsborg batteries that sank the German warship Blücher on 9 April 1940, an act that saved the king and the Norwegian government from being captured, and which is dramatically depicted in the film The King's Choice.",
+        "id": "Drobak Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.60704231262207,
+          59.673700081565734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gamblebyen",
+        "amenity": "District",
+        "popupContent": "The timbered houses, moats, gates and drawbridge of the Fredrikstad Gamlebyen are simply enchanting. The perimeter walls, once defended by 200 cannons, now consist of grassy embankments that make for a very pleasant stroll. The narrow, cobbled streets have been similarly preserved and are still lined with picturesque 17th-century buildings, many of which remain occupied today.",
+        "id": "Fredrickstad Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.951695442199707,
+          59.20347059409498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Isegran",
+        "amenity": "Historical Building",
+        "popupContent": "Norse sagas mention the 13th-century fortress of Isegran, an islet in the Glomma that became a further line of defence against Sweden in the mid-17th century. The ruins ( MAP GOOGLE MAP ) of a stone tower are visible at the eastern end of the island. It's also the site of a small museum on local boat building (from the time when boats were lovingly handcrafted from wood). By road or on foot, access is from Rv108, about 600m south of Fredrikstad city centre.",
+        "id": "Fredrickstad Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.947092771530151,
+          59.202951495439144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kongsten Fort",
+        "amenity": "Historical Building",
+        "popupContent": "On what was once called 'Gallows Hill' stands the flower-festooned Kongsten Festning. Dating from 1685, it once served as a lookout and warning post for the troops at nearby Gamlebyen. Although it can get overrun on summer weekends, this otherwise lonely and appealingly intact is a fun place at which to scramble around the turrets, embankments, walls and stockade, or just sit in the sun and soak up the quiet.",
+        "id": "Fredrickstad Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.96287488937378,
+          59.197806773727976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fredrickstad Motell & Camping",
+        "amenity": "Campground",
+        "popupContent": "This comfortable if rather unscenic place is in the grounds of Kongsten Festning and most notable for its proximity to the Old Town. In summer there's a buffet breakfast for 90kr per person. From the centre, take any bus (eg 362) headed for Torsnes.",
+        "id": "Fredrickstad Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.96454858779907,
+          59.19995485107761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Majoren's Stue og Kro",
+        "amenity": "Restaurant",
+        "popupContent": "This rustic place specialises in Norwegian dishes cooked in a slow, old-fashioned manner that seems almost bang on trend again, along with more standard burgers and fish and chips, served either in the formal dining room or the back garden. An attached bar, with its own smart bar menu, is open for a few hours after the kitchen stops serving.",
+        "id": "Fredrickstad Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.955215841531754,
+          59.203369658863195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frediksten Fortress and Museums",
+        "amenity": "Historical Building",
+        "popupContent": "Crowning the hilltop behind Halden is the 1661 Fredriksten Fortress, which has resisted six Swedish sieges and never been captured. The fortress covers a large area, much of which is grassy expanses and tumble-down walls, but there are a couple of interesting museums, a restored cobbled street and great views. The whole place is brought entertainingly to life through the guided tours.",
+        "id": "Halden Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.396727561950682,
+          59.11963158619539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fredriksten Camping",
+        "amenity": "Campground",
+        "popupContent": "A great location amid the trees and adjacent to the fortress makes this well-run place a winner. It also offers minigolf and, after the fortress closes and the crowds disappear, a quiet green spot to pitch a tent. There's an on-site restaurant selling various fried things.",
+        "id": "Halden Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.398744583129881,
+          59.11623938641109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fredriksten Hotel",
+        "amenity": "Hotel",
+        "popupContent": "A historic hotel with a very smart, contemporary style that has the best view in town. As well as its usual double and single rooms there are good number of family and six-bed rooms.",
+        "id": "Halden Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.39451205730438,
+          59.11612098376275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Havna Restaurant",
+        "amenity": "Restaurant",
+        "popupContent": "Right on the waterfront, this place has a cruisy atmosphere and a wonderful pontoon terrace that's open in summer. The pizzas are expensive, but come in quite generous portions and are bound to fill hungry travellers. There are several similar places nearby.",
+        "id": "Halden Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.387640237808228,
+          59.11886892118898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PizzaXpressen",
+        "amenity": "Restaurant",
+        "popupContent": "Right on the waterfront, this place has a cruisy atmosphere and a wonderful pontoon terrace that's open in summer. The pizzas are expensive, but come in quite generous portions and are bound to fill hungry travellers. There are several similar places nearby.",
+        "id": "Halden Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.388026475906372,
+          59.118811101127996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slottsfjellstarnet",
+        "amenity": "Historical Building",
+        "popupContent": "Slottsfjellstårnet tower provides a good viewpoint over the Tonsberg Castle ruins. Parts of the 600m-long outer wall remain intact, while the extant medieval stone foundations include King Magnus Lagabøte's keep, the 1191 Church of St Michael, the hall of King Håkon Håkonsson and various guard towers. The park is always open.",
+        "id": "Tonsberg Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.40428876876831,
+          59.27197720518876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tonsberg Castle",
+        "amenity": "Historical Building",
+        "popupContent": "Tønsberg Castle, spread across the hill behind the town, was the largest fortress in Norway in the 13th century. In 1503 the Swedes destroyed what they could, but nonetheless, the modern (1888), 17m-high Slottsfjellstårnet tower provides a good viewpoint over the ruins.",
+        "id": "Tonsberg Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.403586030006407,
+          59.27168871147651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slottsfjellsmuseet",
+        "amenity": "Museum",
+        "popupContent": "At the foot of Slottsfjellet (Castle Rock) at the northern end of town, a five-minute walk northwest of the train station, this museum's highlights include displays on the excavation of the impressive Oseberg Viking ship (now shown in Oslo's Vikingskipshuset), a collection of historic period-furnished farm buildings, and a section on Tønsberg's whaling history.",
+        "id": "Tonsberg Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.406419783830643,
+          59.27322160611809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Havariet",
+        "amenity": "Restaurant",
+        "popupContent": "Arguably the most popular option along the waterfront, this place offers solid pub grub in a warm and inviting interior. It has good-value lunch deals and plenty of marine life on the menu, including some tasty, if sometimes over-burdened, salads.",
+        "id": "Tonsberg Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.405222177505493,
+          59.26630281847976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandefjord Museum",
+        "amenity": "Museum",
+        "popupContent": "You might not agree with the continuation of the practice this museum explores, but there's no denying that Sandefjord's Whaling Museum is a well-presented exhibition of this most controversial of Norwegian activities, and offers a balanced view of both sides of the story.",
+        "id": "Sandefjord Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.227456092834473,
+          59.13108328615432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southern Actor",
+        "amenity": "Museum",
+        "popupContent": "The 1950s whaleboat Southern Actor is moored at the harbour; entry is by your Whaling Museum ticket; while you're there, also look out for the striking monument to whalers.",
+        "id": "Sandefjord Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.229770839214325,
+          59.12648930195038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel Kong Carl",
+        "amenity": "Hotel",
+        "popupContent": "This ridiculously charming option is, allegedly, the second-oldest hotel in Norway. Its bedrooms are a kind of historical-light, matching traditional wallpaper with classic contemporary furniture and objects rather than going the antique route. Staff are kind and helpful and it's central, if not waterfront.",
+        "id": "Sandefjord Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.222091674804688,
+          59.130653916491205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clarion Collection Hotel Atlantic",
+        "amenity": "Hotel",
+        "popupContent": "Occupying a beautiful building from 1914, three minutes' walk from the station, this Clarion boutique-style hotel is great value and one of the more atmospheric choices on this part of the coast. Rooms have a luxe aesthetic, though they're on the small side, and a light dinner, or supper as they call it, is complimentary every night from 6pm.",
+        "id": "Sandefjord Location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.22428035736084,
+          59.13302088741958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oslo",
+        "amenity": "City",
+        "popupContent": "Surrounded by mountains and the sea, this compact, cultured, caring and fun city is Europe's fastest-growing capital, with a palpable sense of reinvention. Oslo is also home to world-class museums and galleries to rival anywhere else on the European art trail. But even here Mother Nature has managed to make her mark, and Oslo is fringed with forests, hills and lakes awash with opportunities for hiking, cycling, skiing and boating. Add to this mix a thriving cafe and bar culture, top-notch restaurants, nightlife options ranging from opera to indie rock, and a large and visible immigrant community who add their own colourful touch to the city, and the result is a thoroughly intoxicating place in which to forget about the fjords for a while.",
+        "id": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.739822387695312,
+          59.91751600597933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drobak",
+        "amenity": "City",
+        "popupContent": "Once Oslo's winter harbour, Drøbak is a cosy little village by the water's edge, home to enough clapboard timber buildings to warrant a happy day trip from the capital.",
+        "id": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.632362365722656,
+          59.66583331789696
+        ]
+      }
+    }
+  ]
+}
